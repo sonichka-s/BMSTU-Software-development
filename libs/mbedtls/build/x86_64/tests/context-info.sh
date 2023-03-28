@@ -1,1 +1,0 @@
-/Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/tests/context-info.sh
