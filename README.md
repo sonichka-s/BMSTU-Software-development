@@ -1,1 +1,1 @@
-# BMSTU-Software-development
+# 1-4 лабораторные работы по курсу РПО
