@@ -1,0 +1,21 @@
+CMakeFiles/mbedtls_test.dir/tests/src/fake_external_rng_for_test.c.o: \
+  /Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/tests/src/fake_external_rng_for_test.c \
+  /Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/tests/include/test/fake_external_rng_for_test.h \
+  /Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/include/mbedtls/build_info.h \
+  /Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/include/mbedtls/mbedtls_config.h \
+  /Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/include/mbedtls/config_psa.h \
+  /Users/howtonikita/AndroidStudioProjects/rpo/libs/mbedtls/mbedtls/include/mbedtls/check_config.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/12.0.8/include/limits.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/limits.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/sys/cdefs.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/versioning.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/api-level.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/android/ndk-version.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/12.0.8/include/float.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/linux/limits.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/bits/posix_limits.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/12.0.8/include/stdint.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/stdint.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/include/bits/wchar_limits.h \
+  /Users/howtonikita/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/12.0.8/include/stddef.h
